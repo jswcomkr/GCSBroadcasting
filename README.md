@@ -1,2 +1,2 @@
 # GCSBroadcasting
-GCS Broadcasting system [project for multiple UAV operation.
+GCS Broadcasting system [project for multiple UAV operation].
